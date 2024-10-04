@@ -1,5 +1,5 @@
 # 💫 About Me:
-## About Me:<br><p>🛠 I’m currently working on  <br>- A Web3 exchange platform using React.<br><br>🤝 I’m looking to collaborate on  <br>- Frontend projects  <br>- Web3 applications  <br><br>🆘 I’m looking for help with  <br>- React state management  <br>- Optimizing blockchain API interactions  <br><br>🌱 I’m currently learning  <br>- Advanced React  <br>- Next.js  <br>- Backend with Node.js  <br><br>💬 Ask me about  <br>- Building responsive web apps  <br>- Crypto trading strategies  <br><br>⚡ Fun fact  <br>-I enjoy troubleshooting tricky bugs in code—it’s like being a digital detective 🥴</p>
+## About Me:<br><h6>🛠 I’m currently working on </h6> <br>- A Web3 exchange platform using React.<br><br>🤝 I’m looking to collaborate on  <br>- Frontend projects  <br>- Web3 applications  <br><br>🆘 I’m looking for help with  <br>- React state management  <br>- Optimizing blockchain API interactions  <br><br>🌱 I’m currently learning  <br>- Advanced React  <br>- Next.js  <br>- Backend with Node.js  <br><br>💬 Ask me about  <br>- Building responsive web apps  <br>- Crypto trading strategies  <br><br>⚡ Fun fact  <br>-I enjoy troubleshooting tricky bugs in code—it’s like being a digital detective 🥴
 
 
 ## 🌐 Socials:
