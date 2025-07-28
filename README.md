@@ -1,7 +1,7 @@
 # 💫 About Me:
 ## About Me:<br><br>
 
-👋 I'm a dedicated <b>Fullstack Developer</b> who enjoys building clean, functional, and user-friendly web & mobile applications. I specialize in creating responsive interfaces and solving real-world problems with code.<br><br>
+👋 I'm a dedicated <b>Fullstack Developer</b> who enjoys building clean, functional, and user-friendly web & mobile applications. I specialize in creating responsive interfaces and solving real-world problems with code.<br>
 
 🤝 I’m looking to collaborate on:<br>
 - Fullstack projects (React, Node.js, MongoDB)<br>
