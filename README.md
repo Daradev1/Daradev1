@@ -1,5 +1,25 @@
 # 💫 About Me:
-## About Me:<br><h6>🛠 I’m currently working on </h6> <br>- A Web3 exchange platform using React.<br><br>🤝 I’m looking to collaborate on  <br>- Fullstack projects  <br>- Web3 applications  <br><br>    <br><br>🌱 I’m currently learning  <br>- Blockchain / web3 development  💬 Ask me about  <br>- Building responsive /Functional web apps  <br>- Crypto trading strategies  <br><br>⚡ Fun fact  <br>-I enjoy troubleshooting tricky bugs in code—it’s like being a digital detective 🥴
+## About Me:<br><br>
+
+👋 I'm a dedicated <b>Fullstack Developer</b> who enjoys building clean, functional, and user-friendly web & mobile applications. I specialize in creating responsive interfaces and solving real-world problems with code.<br><br>
+
+🤝 I’m looking to collaborate on:<br>
+- Fullstack projects (React, Node.js, MongoDB)<br>
+- Frontend-heavy apps with strong UI/UX focus<br>
+- Projects that need performance optimization or clean architecture<br><br>
+
+🌱 I’m currently learning:<br>
+- Advanced JavaScript patterns & best practices<br>
+- Backend optimization and API security<br>
+- Design systems and UI consistency<br><br>
+
+💬 Ask me about:<br>
+- Building responsive and functional web apps<br>
+- Debugging tricky frontend/backend issues<br>
+- Turning UI designs into interactive experiences<br><br>
+
+⚡ Fun fact:<br>
+I enjoy troubleshooting tricky bugs — it’s like solving a digital puzzle that always teaches me something new 🧠🔍<br>
 
 
 ## 🌐 Socials:
